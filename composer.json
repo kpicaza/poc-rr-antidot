@@ -25,7 +25,7 @@
     "antidot-fw/symfony-config-translator": "^1.1.0",
     "antidot-fw/yaml-config-provider": "^0.1.0",
     "ramsey/uuid": "^4.1",
-    "spiral/roadrunner": "v2.0",
+    "spiral/roadrunner": "v2.2.1",
     "wshafer/psr11-monolog": "^3.0.0|@dev"
   },
   "require-dev": {
